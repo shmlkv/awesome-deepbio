@@ -256,6 +256,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2019-02** | DeepRibo: a neural network for precise gene annotation of prokaryotes by combining ribosome profiling signal and binding site patterns | *Jim Clauwaert, Gerben Menschaert, Willem Waegeman* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkz061)
 
+- **2025** | dna-claude-analysis: Personal genome analysis toolkit using LLM for analyzing raw DNA data across 17 categories including variant interpretation and pharmacogenomics | *Shamilkv* | [GitHub](https://github.com/shmlkv/dna-claude-analysis)
+
 ### Contribution
 
 Feel free to send a pull request.
